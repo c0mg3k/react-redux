@@ -10,4 +10,4 @@ class CoursesPage extends React.Component {
   }
 }
 
-export default CoursesPage; 
+export default CoursesPage;
